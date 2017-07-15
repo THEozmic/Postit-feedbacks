@@ -1,0 +1,7 @@
+1. Return relevant data only
+2. Use only json responses
+3. Stick with the style guide
+4. When returning a json response, group related resources into an object e.g an array of messages
+5. Don't return sensitive data e.g Passwords. I think it would be nice to ask for clarification on "sensitive data"
+6. Hash your passwords
+7. Place your token in headers not it body and always use the "x-" prefix for custom headers
