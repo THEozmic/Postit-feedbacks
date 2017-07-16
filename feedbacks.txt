@@ -5,3 +5,6 @@
 5. Don't return sensitive data e.g Passwords. I think it would be nice to ask for clarification on "sensitive data"
 6. Hash your passwords
 7. Place your token in headers not it body and always use the "x-" prefix for custom headers
+8. Fields should be validated. e.g: Passwords cannot be blank, Phone should have only numbers
+9. Group name should be unique
+10. Use http://jsonapi.org/ for future refrences
