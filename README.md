@@ -8,3 +8,5 @@ Feedbacks of the postit app
 4. Create a pull request
 5. Follow up on your PR
 6. Goto 2
+
+View the list: https://github.com/THEozmic/Postit-feedbacks/blob/master/feedbacks.txt
