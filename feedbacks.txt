@@ -10,3 +10,5 @@
 10. Catch all errors and return only custom ones
 11. All errors must have a useful message put in an "error" attribute
 12. Use correct status codes: https://httpstatuses.com/
+13. If possible, don't let incorrect data reach the database for validation, make use of controllers instead
+14. When returning a dataset, be sure to include appropriate relations to avoid avoidable network calls
